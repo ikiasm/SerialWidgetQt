@@ -36,6 +36,19 @@
     </rect>
    </property>
   </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>50</y>
+     <width>121</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ACA DEBE DECIR ALGO</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
