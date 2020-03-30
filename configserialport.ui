@@ -39,14 +39,24 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>240</x>
-     <y>50</y>
+     <x>310</x>
+     <y>20</y>
      <width>121</width>
      <height>16</height>
     </rect>
    </property>
    <property name="text">
     <string>ACA DEBE DECIR ALGO</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>271</width>
+     <height>251</height>
+    </rect>
    </property>
   </widget>
  </widget>
